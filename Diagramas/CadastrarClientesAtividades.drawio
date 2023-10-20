@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-29T18:24:20.667Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="ODC6BXgWYMlBeftjC0pp" version="22.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-20T19:48:35.730Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="BcMzTCQAWNkb_7Q60Dh9" version="22.0.0" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="DiagramaAtividades">
     <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -35,6 +35,9 @@
         </mxCell>
         <mxCell id="-PiYgMaSnoU5pojzZ2rZ-44" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="-PiYgMaSnoU5pojzZ2rZ-33" vertex="1">
           <mxGeometry x="180" y="55" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="vSkzQTMTQYVsFEDfIOOg-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-PiYgMaSnoU5pojzZ2rZ-33" source="-PiYgMaSnoU5pojzZ2rZ-46" target="vSkzQTMTQYVsFEDfIOOg-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-PiYgMaSnoU5pojzZ2rZ-46" value="Selecionar Cliente" style="ellipse;whiteSpace=wrap;html=1;" parent="-PiYgMaSnoU5pojzZ2rZ-33" vertex="1">
           <mxGeometry x="180" y="200" width="80" height="80" as="geometry" />
@@ -96,6 +99,12 @@
         </mxCell>
         <mxCell id="-PiYgMaSnoU5pojzZ2rZ-62" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" parent="-PiYgMaSnoU5pojzZ2rZ-33" vertex="1">
           <mxGeometry x="700" y="400" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vSkzQTMTQYVsFEDfIOOg-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="-PiYgMaSnoU5pojzZ2rZ-33" source="vSkzQTMTQYVsFEDfIOOg-1" target="-PiYgMaSnoU5pojzZ2rZ-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vSkzQTMTQYVsFEDfIOOg-1" value="Atualizar Dados" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="-PiYgMaSnoU5pojzZ2rZ-33">
+          <mxGeometry x="180" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="-PiYgMaSnoU5pojzZ2rZ-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-PiYgMaSnoU5pojzZ2rZ-38" target="-PiYgMaSnoU5pojzZ2rZ-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
